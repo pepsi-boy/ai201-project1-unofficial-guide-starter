@@ -1,0 +1,902 @@
+[
+  {
+    "text": "Dining Halls: All You Care to Eat vs Retail Dining Ever wondered why some Vanderbilt students bypass the unlimited plates at the dining hall for a single meal swipe option? Vanderbilt offers two types of dining where students can sit down and enjoy a meal. On the Campus Dining website, the two types are labeled as “Residential Dining Halls” and “Retail Dining”. Residential Dining Halls include Commons, E. Bronson Ingram, Nicholas S. Zeppos, and Rothschild Dining Center. Retail Dining includes 2301 Allergen Free, Kitchen at Kissam, Rand Dining Center, and The Pub at Overcup Oak.",
+    "source": "business_review_aycte_vs_retail.txt",
+    "chunk_index": 0,
+    "char_len": 584
+  },
+  {
+    "text": "includes 2301 Allergen Free, Kitchen at Kissam, Rand Dining Center, and The Pub at Overcup Oak. The difference? Residential Dining Halls are “all-you-care-to-eat”. At most of these locations, you are able to swipe once, eat as much as you like, and stay for however long you want or can (the bathrooms are located outside of the dining hall). Commons is a unique Residential Dining Hall as there is a 45 minutes time limit. In comparison, at Retail Dining locations, there is a limit of an entree, side, and drink. You can’t go back to get more unless you swipe again.",
+    "source": "business_review_aycte_vs_retail.txt",
+    "chunk_index": 1,
+    "char_len": 568
+  },
+  {
+    "text": "is a limit of an entree, side, and drink. You can’t go back to get more unless you swipe again. Despite multiple attempts, Campus Dining did not reply to requests for comment on why there are two types of dining styles in Vanderbilt. So instead, we will turn to students themselves to see if we can find the answer. What do students think? The Vanderbilt dining system raises many questions. Do students prefer a Residential Dining Hall or Retail Dining? What makes Retail Dining remain attractive when there are all-you-care-to-eat options? What influences a student’s choice of dining?",
+    "source": "business_review_aycte_vs_retail.txt",
+    "chunk_index": 2,
+    "char_len": 587
+  },
+  {
+    "text": "when there are all-you-care-to-eat options? What influences a student’s choice of dining? To answer these questions, I interviewed a few students on their opinions. When asked about his preferences between Residential Dining Halls and Retail Dining, Junior Harrison Zhang, shared that his choice really “depends on the food.” His favorite locations are 2301, The Pub, Rothschild, and Commons.",
+    "source": "business_review_aycte_vs_retail.txt",
+    "chunk_index": 3,
+    "char_len": 392
+  },
+  {
+    "text": "really “depends on the food.” His favorite locations are 2301, The Pub, Rothschild, and Commons. He noted, “2301 is good, but it’s unrealistic to have that [as] all-you-can-eat.” He appreciates the all-you-can-eat model because “people eat different portion sizes.” He then reflects, “but I suppose people can always re-swipe from the excess swipes we always have.” When discussing The Pub, he emphasized its uniqueness, stating, “it’s the one dining place that is fundamentally distinct from all others.”",
+    "source": "business_review_aycte_vs_retail.txt",
+    "chunk_index": 4,
+    "char_len": 505
+  },
+  {
+    "text": "uniqueness, stating, “it’s the one dining place that is fundamentally distinct from all others.” “I think that the one meal one swipe locations are higher quality, but I sometimes find myself using multiple swipes to get what I want to eat.” Skyler Shipp, Junior",
+    "source": "business_review_aycte_vs_retail.txt",
+    "chunk_index": 5,
+    "char_len": 262
+  },
+  {
+    "text": "but I sometimes find myself using multiple swipes to get what I want to eat.” Skyler Shipp, Junior When asked about their preferences between Residential Dining Halls and Retail Dining, Junior Skyler Shipp says “I think that the one meal one swipe locations are higher quality, but I sometimes find myself using multiple swipes to get what I want to eat. They also sometimes get boring because the options change less, but they are still the highest quality food in my opinion.” His favorite locations are Rand, The Pub, and Commons. When asked why he liked Commons, the only Residential Dining Hall in their top three locations, Skyler replied with “I think it has pretty good variety.”",
+    "source": "business_review_aycte_vs_retail.txt",
+    "chunk_index": 6,
+    "char_len": 687
+  },
+  {
+    "text": "Dining Hall in their top three locations, Skyler replied with “I think it has pretty good variety.” Conclusion Although Residential Dining Halls seem like a better option due to being all-you-can eat, Retail Dining is most commonly chosen as the best dining options by students. This seems to be due to the fact that students believe that Retail Dining offers higher quality food when compared to Residential Dining Halls. Residential Dining Halls are seen as lesser in quality but offer more variety and the freedom of all-you-can-eat. Whether or not this perception of quality is true is uncertain.",
+    "source": "business_review_aycte_vs_retail.txt",
+    "chunk_index": 7,
+    "char_len": 600
+  },
+  {
+    "text": "and the freedom of all-you-can-eat. Whether or not this perception of quality is true is uncertain. In the eyes of students, the tradeoff between Retail Dining and Residential Dining Halls is of quality versus quantity. Although deciding where to eat might be trivial to you, your choices shape the Vanderbilt dining system, making every swipe and every meal a vote for how the school offers dining.",
+    "source": "business_review_aycte_vs_retail.txt",
+    "chunk_index": 8,
+    "char_len": 399
+  },
+  {
+    "text": "Lots of change, some progress: A review of Campus Dining We are starting to see some changes in Campus Dining, but just because things are different, doesn’t necessarily mean they have improved. When I first arrived on campus last year, dining was one of the largest complaints I and many of my fellow students had. We heard a myriad of reasons from Campus Dining as to why it could not provide the award-winning quality we had been promised on the tours we took as high school students. Yet, students continued to struggle to find edible, appetizing or allergen-free food.",
+    "source": "hustler_campus_dining_review.txt",
+    "chunk_index": 0,
+    "char_len": 573
+  },
+  {
+    "text": "students. Yet, students continued to struggle to find edible, appetizing or allergen-free food. Perhaps in response to some of our concerns, Campus Dining rolled out some updates this semester. Let’s take a look at some of the changes Campus Dining made this semester and see if they are progressive or regressive. Opening Rothschild Dining Hall Rating: Decent The opening of Rothschild Dining Hall is one of the largest additions that has been made to Campus Dining this year. The biggest effect of this change is that it alleviates capacity pressure from the other dining facilities.",
+    "source": "hustler_campus_dining_review.txt",
+    "chunk_index": 1,
+    "char_len": 585
+  },
+  {
+    "text": "effect of this change is that it alleviates capacity pressure from the other dining facilities. The food has been alright overall, but day-to-day quality definitely varies. I have found myself walking into Rothschild determined to try something new, but by the time I check out the other food options, I find myself back in the burger line—which is satisfyingly consistent. The dining hall also tends to be a bit crowded, but I hope that should die down as the year progresses and its novelty wears off. All-you-care-to-eat at Commons Rating: Great",
+    "source": "hustler_campus_dining_review.txt",
+    "chunk_index": 2,
+    "char_len": 548
+  },
+  {
+    "text": "down as the year progresses and its novelty wears off. All-you-care-to-eat at Commons Rating: Great Commons Dining is not traditionally the subject of great praise, but the switch to all-you-care-to-eat is greatly appreciated. Allowing students to take as much food as they want for 45 minutes is an effective way to make sure everyone gets enough to eat. It also gives first-years (and their worried parents) who are transitioning to college life the assurance that they will not go hungry.",
+    "source": "hustler_campus_dining_review.txt",
+    "chunk_index": 3,
+    "char_len": 491
+  },
+  {
+    "text": "worried parents) who are transitioning to college life the assurance that they will not go hungry. This change was very well implemented with the addition of the motion-sensor gates—no need to rebalance your plate of pizza to check out. Best of all, these gates allow more students to scan into the dining hall quicker while having fewer dining staff working the register, a creative way to contend with Campus Dining’s staffing shortages. VisionPass biometric scanners Rating: Pointless",
+    "source": "hustler_campus_dining_review.txt",
+    "chunk_index": 4,
+    "char_len": 487
+  },
+  {
+    "text": "to contend with Campus Dining’s staffing shortages. VisionPass biometric scanners Rating: Pointless I wanted to separate this addition from the rest of the dining changes at Commons so as to not detract from its improvements. But the addition of the VisionPass biometric scanners is, in my opinion, a waste of time and money since these scanners do not really add any value. Most students carry their phones on them to get into buildings on campus, so it is very easy for students to scan into dining halls. I doubt it saves any time to use a biometric scan instead, especially given the time it would take to set a VisionPass profile up. Campus Dining really should focus their efforts elsewhere.",
+    "source": "hustler_campus_dining_review.txt",
+    "chunk_index": 5,
+    "char_len": 697
+  },
+  {
+    "text": "take to set a VisionPass profile up. Campus Dining really should focus their efforts elsewhere. The reopening of The Pub Rating: On the right track, but not there yet The most important takeaway here is that The Pub is open! However, the reopening has been a bit lackluster in my opinion. In theory, the sole option of mobile ordering is effective and time-saving. We can place orders significantly in advance, giving Campus Dining ample time to prepare our meals according to our selected pick-up time. Sadly, this unspoken agreement is not always being fulfilled on Campus Dining’s end.",
+    "source": "hustler_campus_dining_review.txt",
+    "chunk_index": 6,
+    "char_len": 588
+  },
+  {
+    "text": "pick-up time. Sadly, this unspoken agreement is not always being fulfilled on Campus Dining’s end. Some students have waited 30 or more minutes beyond their scheduled pick-up time for a meal they ordered hours in advance. To add insult to injury, sometimes food ordered for the next pick-up time slot is ready before earlier ones. When one person in a group finishes eating before another gets their food—despite ordering their food for the same pick-up time—it makes it difficult to have a meal with others.",
+    "source": "hustler_campus_dining_review.txt",
+    "chunk_index": 7,
+    "char_len": 508
+  },
+  {
+    "text": "ordering their food for the same pick-up time—it makes it difficult to have a meal with others. Other minor complaints: The Pub’s milkshakes are not available for a meal swipe (only Meal Money and Commodore Cash), and it has limited hours. It is peculiar to me that a place called “The Pub” is closed on Fridays and Saturdays; it would also be nice to have The Pub as a lunch option instead of its current hours of 3-8 p.m. CDT. Lastly, there are some other Pub staples that have yet to return, like seating on the balcony and serving alcohol.",
+    "source": "hustler_campus_dining_review.txt",
+    "chunk_index": 8,
+    "char_len": 543
+  },
+  {
+    "text": "some other Pub staples that have yet to return, like seating on the balcony and serving alcohol. However, I know restarting something that was paused for over two years may be a bit bumpy and take some time. I just hope this reopening is simply the beginning of The Pub’s return, not just a bone Campus Dining has thrown to the students to keep us minimally content. “All-Access” meal plan Rating: Terrible",
+    "source": "hustler_campus_dining_review.txt",
+    "chunk_index": 9,
+    "char_len": 406
+  },
+  {
+    "text": "has thrown to the students to keep us minimally content. “All-Access” meal plan Rating: Terrible This idea was a huge swing and a miss for Campus Dining. Students wanted choice in our meal plans, but the so-called “All-Access” meal plan was not what we meant. This plan allows students unlimited access to the four residential dining halls but limits students to one swipe per day at a retail dining location. Getting this plan means paying more for fewer options.",
+    "source": "hustler_campus_dining_review.txt",
+    "chunk_index": 10,
+    "char_len": 464
+  },
+  {
+    "text": "swipe per day at a retail dining location. Getting this plan means paying more for fewer options. For example, with my standard 19-swipe meal plan, I could get a coffee at Suzie’s in the morning, head to Rand for lunch and get dinner at Kissam without a problem. If I tried the same thing with the “All-Access” plan, my access is cut off after my morning coffee. After that, I would only have access to the dining halls that are already “all-you-care-to-eat.”",
+    "source": "hustler_campus_dining_review.txt",
+    "chunk_index": 11,
+    "char_len": 459
+  },
+  {
+    "text": "After that, I would only have access to the dining halls that are already “all-you-care-to-eat.” The most concerning part of this plan is that it may trick nervous first-years and their parents into paying more money for fewer options. Before arriving on campus, I did not know that 21 meal swipes each week would be more than enough, and I did not understand how often I would eat at different types of dining locations on campus. I fear those in the Class of 2026 may have fallen head-first into this trap. Continuous hours at residential college dining halls Rating: Decent",
+    "source": "hustler_campus_dining_review.txt",
+    "chunk_index": 12,
+    "char_len": 576
+  },
+  {
+    "text": "head-first into this trap. Continuous hours at residential college dining halls Rating: Decent Sometimes, our schedules work out in a way that makes it difficult to eat meals at more traditional times. Keeping some dining halls open through the gaps between major meals is a good way to expand our options.",
+    "source": "hustler_campus_dining_review.txt",
+    "chunk_index": 13,
+    "char_len": 306
+  },
+  {
+    "text": "some dining halls open through the gaps between major meals is a good way to expand our options. Hours of operation could still be further expanded. Closing at 8 p.m. CDT each night is still a bit early, especially for students who may need to eat later due to evening classes and activities. Weekend hours starting at 9 a.m. CDT are also problematic for early birds who are ready to get a start on their day but must wait until the dining halls open. Fill it Forward containers Rating: On the right track, but not there yet",
+    "source": "hustler_campus_dining_review.txt",
+    "chunk_index": 14,
+    "char_len": 524
+  },
+  {
+    "text": "the dining halls open. Fill it Forward containers Rating: On the right track, but not there yet This program seems to have noble intent, so I give it an A for effort. “Fill it Forward” is a new system of reusable to-go containers. When students bring back a used container, they scan it in with their phone and a small donation is made to a partner charity. It offers a great opportunity to promote sustainability and donate to good causes.",
+    "source": "hustler_campus_dining_review.txt",
+    "chunk_index": 15,
+    "char_len": 440
+  },
+  {
+    "text": "partner charity. It offers a great opportunity to promote sustainability and donate to good causes. However, poor implementation of a well-meaning program is still poor implementation. Sometimes it is not possible to bring these bulky containers (that often contain food residue) everywhere, as they are not disposable. I appreciate the intent behind this program, but I do not think Campus Dining should have completely eliminated the disposable container option for residential dining halls. Munchie Marts Rating: Terrible",
+    "source": "hustler_campus_dining_review.txt",
+    "chunk_index": 16,
+    "char_len": 524
+  },
+  {
+    "text": "the disposable container option for residential dining halls. Munchie Marts Rating: Terrible Students made calls last year to expand meal swipes to include everything offered in the Munchie Marts. Campus Dining ignored our requests and, instead, cleared out some of the food that was available on meal swipes to make room for them to sell spirit wear in certain Munchie Marts. When we are short on time and the Rand line is too long, grabbing something from a Munchie Mart is our best option. It seems like the university is just trying to squeeze our last pennies out of us when we are just trying to eat lunch. This lack of change was a step in the wrong direction.",
+    "source": "hustler_campus_dining_review.txt",
+    "chunk_index": 17,
+    "char_len": 667
+  },
+  {
+    "text": "of us when we are just trying to eat lunch. This lack of change was a step in the wrong direction. Overall sentiment Campus Dining has made some major, structural changes: Dining options are expanding and efforts are being made to better accommodate students.  Yet, there is still plenty of room to continue making improvements. All in all, these changes show that students’ feedback is clearly considered by administrators—an overall step in the right direction.",
+    "source": "hustler_campus_dining_review.txt",
+    "chunk_index": 18,
+    "char_len": 463
+  },
+  {
+    "text": "Campus Dining implements changes to several dining locations Changes include menu additions and swipe limits across several dining locations. Vanderbilt Campus Dining altered its offerings in several locations across campus. These changes include a new bagel bar in Commons, rotating desserts at EBI and flatbread pizzas at Rand. There is also now a daily limit of three meal swipes at Suzie’s locations. Sean Carroll, senior director of communications and marketing, said student feedback was the primary driver behind changes within Campus Dining.",
+    "source": "hustler_dining_changes_2026.txt",
+    "chunk_index": 0,
+    "char_len": 549
+  },
+  {
+    "text": "and marketing, said student feedback was the primary driver behind changes within Campus Dining. “Student voices, paired with analysis of operational data, such as item performance and traffic patterns, help us identify where upgrades or additions can enhance the overall dining experience,” Carroll said. “In some cases, our culinary team had already been exploring new concepts and student input helped guide and refine those final decisions.”",
+    "source": "hustler_dining_changes_2026.txt",
+    "chunk_index": 1,
+    "char_len": 445
+  },
+  {
+    "text": "been exploring new concepts and student input helped guide and refine those final decisions.” According to Caroll, the implementation of student feedback in recent dining changes required the dining team to work with staff to assess logistics, coordinate training and evaluate how the change was received once launched. “One of the more common challenges is determining how to efficiently plant transition stations between meal periods,” Carroll said. “However, with staff input and operational planning, each location successfully implemented the updates.”",
+    "source": "hustler_dining_changes_2026.txt",
+    "chunk_index": 2,
+    "char_len": 557
+  },
+  {
+    "text": "with staff input and operational planning, each location successfully implemented the updates.” One of the new additions, the Commons Bagel Bar, features rotating cream cheese flavors, bagel varieties and additional toppings. The plain, blueberry and everything bagels will stay every week due to popular demand. “The overall response to these upgrades has been positive, with great student feedback and engagement,” Caroll said. “Notably, Commons breakfast has seen increased participation seven days a week.”",
+    "source": "hustler_dining_changes_2026.txt",
+    "chunk_index": 3,
+    "char_len": 510
+  },
+  {
+    "text": "Caroll said. “Notably, Commons breakfast has seen increased participation seven days a week.” Sophomore Anna Vlahakos shared how this change positively affected her routine. “I have a 9:30 class on Commons every Tuesday and Thursday, so I usually end up eating on Commons before class,” Vlahakos said. “I get a breakfast sandwich every day, and I’ve always wanted more of a variety for the sandwich bread, and I can get that now with the bagel bar.”",
+    "source": "hustler_dining_changes_2026.txt",
+    "chunk_index": 4,
+    "char_len": 449
+  },
+  {
+    "text": "always wanted more of a variety for the sandwich bread, and I can get that now with the bagel bar.” E. Bronson Ingram dining hall has also made additions to its offerings. Alongside the previously offered Sweet Loren’s chocolate chip, oatmeal cranberry and fudgy brownie cookies, new desserts such as banana bread and brownies are rotated throughout the week.",
+    "source": "hustler_dining_changes_2026.txt",
+    "chunk_index": 5,
+    "char_len": 359
+  },
+  {
+    "text": "brownie cookies, new desserts such as banana bread and brownies are rotated throughout the week. “At EBI, the introduction of rotating dessert features has given our culinary team the opportunity to experiment with new ideas while gauging student preferences,” Carroll said. “This approach allows us to test different items, gather feedback and determine which offerings resonate most with students before making longer-term decisions.”",
+    "source": "hustler_dining_changes_2026.txt",
+    "chunk_index": 6,
+    "char_len": 436
+  },
+  {
+    "text": "and determine which offerings resonate most with students before making longer-term decisions.” At Rand Dining Hall, students are now offered cheese and pepperoni thin-crust flatbread pizzas. Chefs are working on new varieties with rotating flavors and specialty offerings. First-year Billy Renhoff expressed his satisfaction with this addition.“The pizza was amazing,” Renhoff said. “It was cooked to perfection.” Campus Dining also implemented a three-swipe limit per day at associate operator locations. These locations include Suzie’s, Wasabi, VandyBlenz, Holy Smokes and Grins.",
+    "source": "hustler_dining_changes_2026.txt",
+    "chunk_index": 7,
+    "char_len": 582
+  },
+  {
+    "text": "operator locations. These locations include Suzie’s, Wasabi, VandyBlenz, Holy Smokes and Grins. “The limit was put in place to ensure the meal plan remains fair, sustainable and accessible for all students,” Carroll said. “Meal plans are designed to provide variety and flexibility across campus dining locations, and this adjustment helps preserve that balance while allowing us to continue offering a broad range of options.”",
+    "source": "hustler_dining_changes_2026.txt",
+    "chunk_index": 8,
+    "char_len": 427
+  },
+  {
+    "text": "helps preserve that balance while allowing us to continue offering a broad range of options.” Sophomore Loreli Crouch, an employee at Suzie’s Food for Thought Cafe, commented on the recent change, sharing how the cafe is trying to push back on Vanderbilt Dining’s decision to implement swipe limits.",
+    "source": "hustler_dining_changes_2026.txt",
+    "chunk_index": 9,
+    "char_len": 299
+  },
+  {
+    "text": "how the cafe is trying to push back on Vanderbilt Dining’s decision to implement swipe limits. “We woke up to a text from Vanderbilt saying we will now be allowing you guys to only take three meal swipes, but Suzie’s is trying to fight that so we can go back to unlimited swipes,” Crouch said. “We still have a pretty steady flow of traffic though, so I don’t think it’s really affected people, and honestly I don’t think a lot of people know about it.” Carroll shared Campus Dining’s plans for the future, which will use the same methodology as their most recent changes.",
+    "source": "hustler_dining_changes_2026.txt",
+    "chunk_index": 10,
+    "char_len": 572
+  },
+  {
+    "text": "Dining’s plans for the future, which will use the same methodology as their most recent changes. “Our culinary and operations teams continuously evaluate opportunities to refresh menus and enhance the student experience,” Caroll said. “We are already exploring additional concepts for other dining locations, guided by the same combination of student feedback and operational insight.”",
+    "source": "hustler_dining_changes_2026.txt",
+    "chunk_index": 11,
+    "char_len": 385
+  },
+  {
+    "text": "3 years of Campus Dining losses, ranked As Campus Dining introduces the latest changes to dining halls and the meal plan, several offerings from the past three school years have been totally eliminated.",
+    "source": "hustler_dining_losses.txt",
+    "chunk_index": 0,
+    "char_len": 202
+  },
+  {
+    "text": "and the meal plan, several offerings from the past three school years have been totally eliminated. At Vanderbilt, change is almost guaranteed when it comes to Campus Dining. From opening a new café on campus to adding and removing Taste of Nashville restaurants, not a single year has passed without major changes to dining since I arrived on campus in 2021. And while some differences, like dining hall offerings, were small, other features, like food trucks and Munchie Marts, have been totally eliminated. Come along my journey as a nostalgic senior reminiscing on the “good old days” of Campus Dining.",
+    "source": "hustler_dining_losses.txt",
+    "chunk_index": 1,
+    "char_len": 606
+  },
+  {
+    "text": "Come along my journey as a nostalgic senior reminiscing on the “good old days” of Campus Dining. 6) Commons smoothie machine and 2301 smoothies Personally, my smoothie consumption has increased tenfold since starting college. With 2301 in Rand for the past three years, freshly made smoothies were a highlight of my every morning — most of the employees had my order (spinach, strawberries, raspberries, bananas, protein powder and oat milk) memorized. This year, the allergen-friendly bowls moved from Rand to E. Bronson Ingram, but the smoothies were left behind.",
+    "source": "hustler_dining_losses.txt",
+    "chunk_index": 2,
+    "char_len": 565
+  },
+  {
+    "text": "allergen-friendly bowls moved from Rand to E. Bronson Ingram, but the smoothies were left behind. Additionally, in the 2022-23 school year, a “Fresh Blends” smoothie and drink machine was added to Commons Munchie. This robot-esque machine made iced and blended smoothies, coffee and lemonade drinks but sadly departed after just a year. 5) Rothschild and Rand Munchie Marts Munchie Marts are, in my humble opinion, one of the most consistent features of Campus Dining. When a new Munchie Mart opened in Rothschild College during my sophomore year, it perfected the distribution of them on campus.",
+    "source": "hustler_dining_losses.txt",
+    "chunk_index": 3,
+    "char_len": 596
+  },
+  {
+    "text": "in Rothschild College during my sophomore year, it perfected the distribution of them on campus. The Commons, Branscomb and Rand locations held down main campus, Kissam was on the northern edge and Rothschild completed the mix for the West End neighborhood. The Rothschild Munchie even had shopping carts and bulk snacks to purchase by weight — something unique to that location. However, the Rothschild Munchie was closed after just one year, citing low patronage.",
+    "source": "hustler_dining_losses.txt",
+    "chunk_index": 4,
+    "char_len": 465
+  },
+  {
+    "text": "location. However, the Rothschild Munchie was closed after just one year, citing low patronage. Just this year, the Rand Munchie Mart was replaced with VandyBlenz, a new açaí and smoothie dining option, dropping the Munchie Mart number from five to three. 4) Unrestricted Munchie Mart swipes Not only have Munchie Mart locations changed, but swipes have, too. There was a time when students could use as many meal swipes in a day as they wanted at a Munchie Mart. Going into the 2023-24 school year, Munchie Mart swipes were limited to two per day.",
+    "source": "hustler_dining_losses.txt",
+    "chunk_index": 5,
+    "char_len": 548
+  },
+  {
+    "text": "Munchie Mart. Going into the 2023-24 school year, Munchie Mart swipes were limited to two per day. As a current Highland resident without a dining hall on the quad, the Morgan Munchie is the closest dining option. On the weekends or after the dining halls are closed, Highland residents can only purchase up to two meals a day at any Munchie Mart. While I acknowledge that this prevents students from wiping the Munchies of all stock, with the latest dining changes (read on!), it would be more convenient if the Munchie limit was at least three swipes per day. 3) Tortellini Tuesday",
+    "source": "hustler_dining_losses.txt",
+    "chunk_index": 6,
+    "char_len": 583
+  },
+  {
+    "text": "be more convenient if the Munchie limit was at least three swipes per day. 3) Tortellini Tuesday Tortellini Tuesday last existed in fall 2021, and although it was a short-lived dining experience with changes of its own, it is greatly missed. Picture this: a cold Tuesday evening, maybe “Red (Taylor’s Version)” is playing in your AirPods, and you stumble over to Branscomb Munchie Mart for the first time as a first-year. Tortellini Tuesday was a weekly dining pop-up that served build-your-own tortellini bowls in — yes, that’s right — the Branscomb Munchie Mart.",
+    "source": "hustler_dining_losses.txt",
+    "chunk_index": 7,
+    "char_len": 564
+  },
+  {
+    "text": "that served build-your-own tortellini bowls in — yes, that’s right — the Branscomb Munchie Mart. In fall 2021, all dining halls closed at 7:30 p.m., so having an extra option on a Tuesday night was necessary. However, this was short-lived in the 2021-22 school year and has not returned since. 2) Food trucks",
+    "source": "hustler_dining_losses.txt",
+    "chunk_index": 8,
+    "char_len": 308
+  },
+  {
+    "text": "However, this was short-lived in the 2021-22 school year and has not returned since. 2) Food trucks The fall 2021 semester saw many short-lived Campus Dining pop-ups. One of the most popular and unique was the daily food trucks for lunch and dinner. Each day, there were one or two food trucks, such as Spread ‘Em, Califarmia and Delicias Colombianas, stationed around campus at Commons, Alumni Lawn or Highland Quad. The best part? All meals were meal swipe-eligible. Not only was this a nice alternative to dining hall food, but it also supported local Nashville businesses. Sadly, the food trucks have not consistently appeared on campus since 2022.",
+    "source": "hustler_dining_losses.txt",
+    "chunk_index": 9,
+    "char_len": 652
+  },
+  {
+    "text": "Nashville businesses. Sadly, the food trucks have not consistently appeared on campus since 2022. Honorable Mention: Daily $50 meal money credit The daily $50 Meal Money credit from fall 2021 is my most missed Campus Dining loss, but I put it in an honorable mention spot as this only existed for one singular week. During the first week of my first semester, all dining halls experienced extreme dinner service food shortages. (Lines were out the door at E.",
+    "source": "hustler_dining_losses.txt",
+    "chunk_index": 10,
+    "char_len": 458
+  },
+  {
+    "text": "all dining halls experienced extreme dinner service food shortages. (Lines were out the door at E. Bronson Ingram, and Zeppos literally ran out of food.) To compensate, Campus Dining announced that students would receive a daily credit of $50 from Aug. 24 to 29, 2021, and unused credit expired at the end of each day. Students also received a one-time rollover Meal Money credit of $15 that did not expire. This was truly like Christmas in August. Students were able to splurge for sushi dinners and Jeni’s ice cream pints.",
+    "source": "hustler_dining_losses.txt",
+    "chunk_index": 11,
+    "char_len": 524
+  },
+  {
+    "text": "Christmas in August. Students were able to splurge for sushi dinners and Jeni’s ice cream pints. It was a nice way to allow dining hall workers to adjust to the new influx of students, and students were able to explore the Taste of Nashville program. 1) All Residential Colleges open for breakfast and dinner The most dramatic change and loss for the 2024-25 academic year is the changes to Residential College dining hall hours. EBI, Zeppos and Rothschild Dining Halls are closed for dinner on Friday and all day on Saturday, and they do not serve breakfast Monday through Thursday.",
+    "source": "hustler_dining_losses.txt",
+    "chunk_index": 12,
+    "char_len": 583
+  },
+  {
+    "text": "dinner on Friday and all day on Saturday, and they do not serve breakfast Monday through Thursday. Although Rand opening for dinner was not on my senior year bingo card, neither was the Residential Colleges closing for breakfast. While there is no shortage of food on campus, the loss of three dining halls for breakfast has been interesting to navigate, as all of main campus must file into Rand in their pajamas to face an early morning social hour we had all avoided for years.",
+    "source": "hustler_dining_losses.txt",
+    "chunk_index": 13,
+    "char_len": 480
+  },
+  {
+    "text": "A ranking of Vanderbilt’s dining options After visiting Vanderbilt’s dining locations, we ranked them based on setting, quality of food and atmosphere. “Hurry! We have to make it to the Rand line before everyone else gets there.”",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 0,
+    "char_len": 229
+  },
+  {
+    "text": "food and atmosphere. “Hurry! We have to make it to the Rand line before everyone else gets there.” You’ll need 10 fingers and maybe some toes to count how many times you hear this comment in a given month, but is it really valid? Are Rand cookies really worth the wait in a line that sometimes goes out the door? Is Commons lunch really so awful that it’s worth the trek to main campus for first-years? We took these questions to heart and reflected on our experiences eating at 11 main dining locations on campus. Read on to see whether we debunk or confirm the good and bad myths about your favorite dining halls.",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 1,
+    "char_len": 615
+  },
+  {
+    "text": "on to see whether we debunk or confirm the good and bad myths about your favorite dining halls. 11) 2301 Allergen Free Campus Dining category: Retail Dining",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 2,
+    "char_len": 156
+  },
+  {
+    "text": "about your favorite dining halls. 11) 2301 Allergen Free Campus Dining category: Retail Dining People with food allergies have to be extremely careful about what they eat, but luckily 2301 only uses ingredients free from the top eight allergens: wheat, dairy, egg, soy, peanuts, tree nuts, fish and shellfish. Unluckily, its location is directly next to Rand — a Campus Dining favorite — making it a busy spot most of the time. It is especially unfortunate that 2301 only has one line which is always long, given that it is one of the only fully allergen-friendly dining options on campus.",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 3,
+    "char_len": 589
+  },
+  {
+    "text": "is always long, given that it is one of the only fully allergen-friendly dining options on campus. 2301’s meal options are limited, but its best feature is the all-day smoothie station. 2301 fell to the bottom of our list not because of any distinct deficit in its food or service but because the overall package at the other dining locations is far more promising. 10) Local Java at Alumni Café Campus Dining category: Cafés",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 4,
+    "char_len": 425
+  },
+  {
+    "text": "dining locations is far more promising. 10) Local Java at Alumni Café Campus Dining category: Cafés Second-to-last on the list is Local Java at Alumni Café. Local Java features signature coffee blends and boasts an array of food options. Some specialty coffees include the Monkey Mocha — espresso, steamed milk, chocolate and banana syrup — and the Turtle Latte — espresso, steamed milk, caramel sauce, chocolate sauce and pecan syrup.",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 5,
+    "char_len": 435
+  },
+  {
+    "text": "— and the Turtle Latte — espresso, steamed milk, caramel sauce, chocolate sauce and pecan syrup. Breakfast entrées include bagel sandwiches, farm fridge chia pudding and danishes to go along with two sides per meal swipe, such as fruit, chips or a variety of pastries. Sandwiches are available for lunch as well as extra breakfast food left over from the morning.",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 6,
+    "char_len": 363
+  },
+  {
+    "text": "Sandwiches are available for lunch as well as extra breakfast food left over from the morning. The main reason Local Java has such a low ranking on our list is because it is far less flexible than the only other café on campus, Suzie’s. Unlike Suzie’s, you cannot purchase a latte at Local Java for a meal swipe, and it has less variety in terms of coffee drinks and flavors. Overall, Local Java is a great place for morning coffee, though the options are not as abundant as the other locations on this list. 9) Kitchen at Kissam Campus Dining category: Retail Dining",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 7,
+    "char_len": 567
+  },
+  {
+    "text": "as the other locations on this list. 9) Kitchen at Kissam Campus Dining category: Retail Dining Kissam is known for its signature all-day self-serve açai bowl station, but in our opinion, that aspect is one of the dining hall’s only redeeming qualities. It typically serves Hawaiian poke bowls for lunch, but that is unfortunately the only option for that mealtime. Kissam does, however, have an attached Munchie Mart, and it is the only place where you can get Munchie Mart sides with your cooked meal on campus.",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 8,
+    "char_len": 513
+  },
+  {
+    "text": "and it is the only place where you can get Munchie Mart sides with your cooked meal on campus. Because of this lack of variety and limited space, there is only one line for hot food during each mealtime, making the wait time nearly impossible if you have an early-afternoon class or a late-night meeting. In addition, lunch ends at 2 p.m. CDT each day, compared to 3 p.m. CDT for the other retail dining halls. Although Kissam’s open, naturally lit interior and comfortable couches might earn it the title of the coziest dining hall, it’s hard to enjoy a meal there if you’re not a fan of the regular dishes it serves every day.",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 9,
+    "char_len": 628
+  },
+  {
+    "text": "it’s hard to enjoy a meal there if you’re not a fan of the regular dishes it serves every day. 8) Zeppos Dining Hall Campus Dining category: Residential Dining Halls",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 10,
+    "char_len": 165
+  },
+  {
+    "text": "dishes it serves every day. 8) Zeppos Dining Hall Campus Dining category: Residential Dining Halls Fun fact: You can order a customized flatbread from Zeppos on the GET app just like you can at Roma’s or Michelangelo’s for just one meal swipe. On move-in day, we both coincidentally stumbled upon the Zeppos Dining Hall while scrambling across campus to find somewhere to eat, and the first attribute we noticed was the staff’s handling of food allergies and cross-contamination. We were not allowed to put dessert on our main plate in an effort to avoid any contact between the dessert tongs and the potentially allergen-containing hot food.",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 11,
+    "char_len": 642
+  },
+  {
+    "text": "to avoid any contact between the dessert tongs and the potentially allergen-containing hot food. Despite this cautiousness, Zeppos’s options are somewhat lackluster. Additionally, Zeppos falls short of the vitality you see at other dining halls, especially toward the end of the night. After a long day of studying in the library, we sometimes crave the chatter and laughter of our fellow Commodores enjoying a meal, but Zeppos tends to be a quieter atmosphere. 7) Grins Vegetarian Café Campus Dining category: Cafés",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 12,
+    "char_len": 516
+  },
+  {
+    "text": "but Zeppos tends to be a quieter atmosphere. 7) Grins Vegetarian Café Campus Dining category: Cafés With a name that means “vegetable” in Yiddish, Grins boasts the title of Nashville’s longest-standing vegetarian and kosher café. Nearly all of Grins’ food is made-to-order, ensuring maximum freshness. The major downside of Grins is that you don’t really get the most bang for your buck with a meal swipe.",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 13,
+    "char_len": 405
+  },
+  {
+    "text": "major downside of Grins is that you don’t really get the most bang for your buck with a meal swipe. Like the other dining options, Grins allows you to get a side and a drink with your entrée, but you’re out of luck if you’re not in the mood for coffee or tea, because those are the only purchasable drink options (water is available for free). The side selection is equally sparse, with some days only seeing an apple or a bag of chips as options. However, Grins is the ideal spot if you’re looking for a quiet nook to study while munching on a classic café meal. 6) EBI Dining Hall",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 14,
+    "char_len": 582
+  },
+  {
+    "text": "you’re looking for a quiet nook to study while munching on a classic café meal. 6) EBI Dining Hall Campus Dining category: Residential Dining Halls",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 15,
+    "char_len": 147
+  },
+  {
+    "text": "on a classic café meal. 6) EBI Dining Hall Campus Dining category: Residential Dining Halls Next on our list is EBI, which boasts an assortment of food options, from Mongolian meals to its classic pho. EBI’s dessert options are often plentiful and consistently hit the spot. Considering its beautiful Hogwarts-like interior and buffet-style dining, EBI certainly has a lot to offer. However, finding seating is certainly an issue. We observed students, faculty and visitors sitting at its outside tables or over at Alumni Hall to eat their food, which could be problematic during adverse weather.",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 16,
+    "char_len": 596
+  },
+  {
+    "text": "tables or over at Alumni Hall to eat their food, which could be problematic during adverse weather. Though its hours are from 7 a.m.-8 p.m. CDT during the week, EBI stops serving food relatively early. For example, after scanning into EBI dining hall closer to 8 p.m. CDT or 2 p.m. CDT, one may find that, excluding the pho, the kitchen has stopped serving hot food. Our experiences in Commons and Rand are that they tend to serve all food options until closing hours. Because of its pristine location, though, EBI is also the go-to place for avoiding the Rand lines. 5) Suzie’s Café",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 17,
+    "char_len": 583
+  },
+  {
+    "text": "pristine location, though, EBI is also the go-to place for avoiding the Rand lines. 5) Suzie’s Café Campus Dining category: Cafés It’s clear that our student body loves coffee. Luckily, students can spend meal swipes at these cafés, picking up not only coffee, but also a side or two. The lines may be long, especially at Central Library at noon, but the wait is always worth it.",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 18,
+    "char_len": 379
+  },
+  {
+    "text": "two. The lines may be long, especially at Central Library at noon, but the wait is always worth it. There are four Suzie’s locations — Blair School of Music, Featheringill, MRB III and Central Library (the Food for Thought Café), which provide specialty coffees, sushi and a classic PB&J or ham and cheese sandwiches that you can ask the staff to grill. The cozy atmosphere that radiates from the lounge next to the Suzie’s Blair School of Music location makes these coffee joints a fine addition to Vanderbilt’s Campus Dining. 4) Commons Campus Dining category: Residential Dining Halls",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 19,
+    "char_len": 587
+  },
+  {
+    "text": "addition to Vanderbilt’s Campus Dining. 4) Commons Campus Dining category: Residential Dining Halls Commons tends to be controversial among our student body, but we believe that it consistently delivers. Commons embodies the sense of community and unity for which Vanderbilt aims among its first-year classes. Commons is open and jam-packed with tables, solving an issue that plagues some other dining halls.",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 20,
+    "char_len": 408
+  },
+  {
+    "text": "Commons is open and jam-packed with tables, solving an issue that plagues some other dining halls. On top of its brick-oven pizza, salad and fruit bar, dessert section and newly added ice cream machine, Commons usually has three hot food lines per meal time. Breakfast is arguably the best meal at Commons, providing a wide array of options for whatever your taste buds desire that day — everything from muffins to omelets and even pizza topped with breakfast food on some Fridays. The only thing knocking Commons down to fourth place is that in our experience, the food’s degree of freshness doesn’t compare to that of Rothschild or Rand, which we’ll discuss later.",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 21,
+    "char_len": 666
+  },
+  {
+    "text": "degree of freshness doesn’t compare to that of Rothschild or Rand, which we’ll discuss later. 3) The Pub at Overcup Oak Campus Dining category: Retail Dining The Pub is perfect if you’re looking for the classic diner experience. With customizable meal options similar to those of a sporting event’s concession stand, The Pub provides as many or even more choices than other dining halls to match your mood or dietary needs.",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 22,
+    "char_len": 423
+  },
+  {
+    "text": "provides as many or even more choices than other dining halls to match your mood or dietary needs. The saloon-like setting just adds to the ambience, complete with a pool table, foosball table, bar seating and televisions where you might catch an episode of “The Big Bang Theory,” “Jeopardy!” or a football game. Personally, we love to hit The Pub as a Sunday night tradition after a long day of studying at Stevenson because it’s quick and easy as well as conveniently located inside Sarratt Student Center. It serves made-to-order food from 3 p.m.-8 p.m. CDT from Sunday through Thursday each week.",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 23,
+    "char_len": 600
+  },
+  {
+    "text": "Center. It serves made-to-order food from 3 p.m.-8 p.m. CDT from Sunday through Thursday each week. If you want to bask in the warm spring weather, take your dinner outside and step onto the balcony for an amazing view of Alumni Lawn as the sun sets behind the EBI tower. 2) Rothschild Campus Dining category: Residential Dining Halls",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 24,
+    "char_len": 334
+  },
+  {
+    "text": "the sun sets behind the EBI tower. 2) Rothschild Campus Dining category: Residential Dining Halls Rothschild is symbolic of what a dining hall should look like: an ever-changing ballad of delicious international blended cuisine. Best of all, it is buffet style. For the most part, Roth has something for everyone. Some common options include flavorful Indian, Mexican and Italian food. Apart from that, Rothschild has an all-day gourmet burger and salad bar. It is the only dining hall that uses nuts. Other than this, Rothschild isn’t far off from securing the No. 1 spot with a few changes, such as a larger seating area, more allergen-friendly options and perhaps a new dessert lineup.",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 25,
+    "char_len": 688
+  },
+  {
+    "text": "such as a larger seating area, more allergen-friendly options and perhaps a new dessert lineup. 1) Rand Dining Center Campus Dining category: Retail Dining Marked by its consistency, cornucopia of options and welcoming staff, Rand is where ‘Dore for a Day students and tour groups are often brought, giving prospective students a glimpse at all that Vanderbilt has to offer.",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 26,
+    "char_len": 374
+  },
+  {
+    "text": "are often brought, giving prospective students a glimpse at all that Vanderbilt has to offer. When discussing Rand, we can’t leave out its ridiculously long lines and early closing time. Its central location makes it the prime lunch spot on campus, though, especially in the spring when students can be found sharing a meal under the fairy lights on Fleming Yard.",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 27,
+    "char_len": 363
+  },
+  {
+    "text": "in the spring when students can be found sharing a meal under the fairy lights on Fleming Yard. Though unfairly chastised by a few, Rand cookies are easily the best snack on campus and a staple of the Commodore diet. Rand cookies are the perfect way to brighten up your day after a tough morning of classes. With this delicious dessert in its arsenal, Rand is the top dining hall and well worth the wait.",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 28,
+    "char_len": 404
+  },
+  {
+    "text": "With this delicious dessert in its arsenal, Rand is the top dining hall and well worth the wait. The Hendrix Room in McGugin Dining Hall is an exclusive dining option for Vanderbilt student-athletes and Blakemore House residents. Even though we weren’t able to rank McGugin among the other dining halls because we couldn’t try it ourselves, we still thought it deserved an honorable mention because of its plentiful options and high quality. We talked to a few student-athletes to hear their take on this special dining hall. First-year soccer player Caroline Betts shared what she thought was best about McGugin.",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 29,
+    "char_len": 613
+  },
+  {
+    "text": "hall. First-year soccer player Caroline Betts shared what she thought was best about McGugin. “Hendrix has good food that’s nutritious and fuels us as athletes,” Betts said. “One of my favorite things is that at every meal, they always have a ton of fresh fruit and berries.”",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 30,
+    "char_len": 275
+  },
+  {
+    "text": "of my favorite things is that at every meal, they always have a ton of fresh fruit and berries.” McGugin features a greater variety of dishes than the other dining halls tailored to athletes looking to rejuvenate their bodies after a long day at practice. Each meal has several stations with different options, such as the smoothie and omelet stations for breakfast and a taco bar and a create-your-own lo mein station for dinner. The dining hall is all-you-can-eat so athletes can fuel up and even take meals to go. Another perk is that the lines are practically nonexistent, which lies in stark contrast to the out-the-door lines that can accumulate at Rand on some weekdays.",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 31,
+    "char_len": 677
+  },
+  {
+    "text": "lies in stark contrast to the out-the-door lines that can accumulate at Rand on some weekdays. In addition, McGugin offers a wider selection of add-ons or ways to customize athletes’ meals, which junior cheerleader Ashley Potts touched on. “The smoothie station has more options than the other dining halls like collagen, bee pollen and goji berries, and they normally make you two or three full smoothies,” Potts said. “For all meals, they’ll have multiple kinds of meat and vegetables, and the meat is usually better quality and tastes significantly better than at the other dining halls.”",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 32,
+    "char_len": 591
+  },
+  {
+    "text": "the meat is usually better quality and tastes significantly better than at the other dining halls.” With The Princeton Review rating Vanderbilt Campus Dining as No. 6 in best campus food nationally, Vanderbilt students have a lot to boast about. All of the dining halls have their own copious quirks that make them top-tier eating spots. One thing is for sure: Students deserve to go munch on a Rand cookie immediately.",
+    "source": "hustler_dining_ranking.txt",
+    "chunk_index": 33,
+    "char_len": 419
+  },
+  {
+    "text": "Dining introduces updated meal plan options following student feedback Campus Dining launched upgrades, including an increased variety of options and updates to sustainability efforts. Campus Dining announced updates to meal plan options on Oct. 14 in response to student feedback, following changes to dining for the 2024-25 school year. These updates respond to requests for variety, healthier options and a commitment to sustainability, including the introduction of new dining stations and menu items across campus.",
+    "source": "hustler_mealplan_feedback.txt",
+    "chunk_index": 0,
+    "char_len": 519
+  },
+  {
+    "text": "to sustainability, including the introduction of new dining stations and menu items across campus. Swaadisht, a South Asian-inspired meal option available at the Stir Fry station, moved from Rand Dining Center to the Commons Center. The Kitchen at Kissam brought back its popular Poke Bowls as a Friday lunch special, in addition to adding gluten-free grains to the Chop Chop station. Rand reintroduced a Mediterranean station where Swaadisht used to be.",
+    "source": "hustler_mealplan_feedback.txt",
+    "chunk_index": 1,
+    "char_len": 454
+  },
+  {
+    "text": "to the Chop Chop station. Rand reintroduced a Mediterranean station where Swaadisht used to be. In a statement to The Hustler, Campus Dining said these changes were implemented in direct response to student feedback throughout the semester, including via Instagram polling. “We hosted a Dining Advisory Board meeting in September and spoke to student representatives directly, and this meeting gave us greater insight into some key areas that needed our immediate attention,” Campus Dining said. Sophomore Elle Techasiriwan expressed gratitude for Campus Dining’s interest in student feedback.",
+    "source": "hustler_mealplan_feedback.txt",
+    "chunk_index": 2,
+    "char_len": 593
+  },
+  {
+    "text": "Sophomore Elle Techasiriwan expressed gratitude for Campus Dining’s interest in student feedback. “I’m very glad to hear some of the old campus favorites are back! Many of my friends were especially enthusiastic about the Poke Bowls returning,” Techasiriwan said in a message to The Hustler. Sophomore Justin He also said he is excited to see Campus Dining acknowledging student requests, particularly for the reintroduction of poke bowls at Kissam.",
+    "source": "hustler_mealplan_feedback.txt",
+    "chunk_index": 3,
+    "char_len": 449
+  },
+  {
+    "text": "Dining acknowledging student requests, particularly for the reintroduction of poke bowls at Kissam. “Kissam poke bowls were always an OG item that I would get as a freshman or sophomore as a quick and delicious meal for lunch,” He said. “I only wish that they would offer poke for more than one day of the week. I’m glad that they have finally been able to bring back such a popular item, and they’re just as good as I remember them to be.”",
+    "source": "hustler_mealplan_feedback.txt",
+    "chunk_index": 4,
+    "char_len": 440
+  },
+  {
+    "text": "been able to bring back such a popular item, and they’re just as good as I remember them to be.” Other notable upgrades include the return of the Gourmet Grille at Rothschild Dining Hall and the launch of new beverage options, including lemonade at Zeppos Dining Hall. Commodore Pizza Kitchen has also revamped its offerings to include personal, made-to-order pizzas, replacing the current premade slice option. Campus Dining expressed a commitment to “providing a wide variety of cuisines” to accommodate dietary needs and student preferences.",
+    "source": "hustler_mealplan_feedback.txt",
+    "chunk_index": 5,
+    "char_len": 544
+  },
+  {
+    "text": "to “providing a wide variety of cuisines” to accommodate dietary needs and student preferences. “Moving Swaadisht to Commons not only allowed us to bring Mediterranean back to Rand as requested but also allowed us the opportunity to offer more variety to students at Commons, which was something first-year students highlighted as an area of opportunity,” Campus Dining said.",
+    "source": "hustler_mealplan_feedback.txt",
+    "chunk_index": 6,
+    "char_len": 375
+  },
+  {
+    "text": "which was something first-year students highlighted as an area of opportunity,” Campus Dining said. The addition of a smoothie station at E. Bronson Ingram Dining Hall replaced the previous fresh juice options with a variety of smoothie ingredients for students to choose from. VandyBlenz also expanded its smoothie offerings, introducing meal swipe-eligible power smoothies with the option to add protein powder.",
+    "source": "hustler_mealplan_feedback.txt",
+    "chunk_index": 7,
+    "char_len": 413
+  },
+  {
+    "text": "offerings, introducing meal swipe-eligible power smoothies with the option to add protein powder. “Many students shared that they missed the customizable smoothie option that used to exist in 2301,” Dining said. “At EBI, students can now order custom smoothies full of their favorite fruits and free of the Top 9 allergens.” Sophomore Garid Mendbayar said the announcement of the smoothie station was the highlight of his week. “I missed having the healthy smoothies that I could bring with me wherever I went,” Mendbayar said.",
+    "source": "hustler_mealplan_feedback.txt",
+    "chunk_index": 8,
+    "char_len": 527
+  },
+  {
+    "text": "“I missed having the healthy smoothies that I could bring with me wherever I went,” Mendbayar said. Mendbayar also said an integral part of his Rothschild experience last year was the Gourmet Grille. He said he was glad to see the grille return and expressed excitement about the latte options at cafes. Local Java, Café Carmichael and Common Grounds will now offer latte and espresso drinks at any size as meal plan options. “Having the lattes in Carmichael and Local Java part of our meal plan means that it’s much more accessible for me to enjoy my favorite drink,” Mendbayar said.",
+    "source": "hustler_mealplan_feedback.txt",
+    "chunk_index": 9,
+    "char_len": 584
+  },
+  {
+    "text": "meal plan means that it’s much more accessible for me to enjoy my favorite drink,” Mendbayar said. Other updates include healthier menu choices — including more fish, steak and lean chicken breast — which will replace the use of chicken thigh meat. Dining said sustainability efforts are also being prioritized, with a shift from bamboo cutlery to compostable plastic for to-go meals and the use of silverware for dine-in service. Junior Naw Wah Na Mu shared excitement for the new options and sustainability efforts.",
+    "source": "hustler_mealplan_feedback.txt",
+    "chunk_index": 10,
+    "char_len": 517
+  },
+  {
+    "text": "service. Junior Naw Wah Na Mu shared excitement for the new options and sustainability efforts. “I love that they are bringing back the Mediterranean bowl at Rand and desserts at Roth,” Mu said. “But most importantly, I’m happy that they are transitioning to compostable plastic cutlery from bamboo cutlery.” Junior Galen Wei shared a similar sentiment. “Bamboo has gotten a lot of deserved flak, so I’m glad that dining is phasing it out in favor of compostable plastic,” Wei said.",
+    "source": "hustler_mealplan_feedback.txt",
+    "chunk_index": 11,
+    "char_len": 482
+  },
+  {
+    "text": "Campus food beyond the dining hall: Student reviews of VandyCart The new Campus Dining grocery delivery service allows students to order certain grocery items using meal swipes and Meal Money.",
+    "source": "hustler_vandycart_reviews.txt",
+    "chunk_index": 0,
+    "char_len": 192
+  },
+  {
+    "text": "delivery service allows students to order certain grocery items using meal swipes and Meal Money. Campus Dining launched VandyCart in August, allowing undergraduate and graduate students to purchase groceries for pickup at one of the three Munchie Marts or at Rand Hall. The program aims to provide an easier way for students to buy grocery essentials and especially caters to off-campus students with meal plans or students who have kitchens on campus. All orders are placed on Transact Mobile Order, which also houses the online ordering system for VandyBlenz. Meal swipes are valued at $12 per swipe, and Meal Money and Commodore Cash are also accepted.",
+    "source": "hustler_vandycart_reviews.txt",
+    "chunk_index": 1,
+    "char_len": 656
+  },
+  {
+    "text": "Meal swipes are valued at $12 per swipe, and Meal Money and Commodore Cash are also accepted. The service provides new food options and a new way to use meal swipes, which some students appreciate. Senior Kady Hillman looks forward to using the swipes that would have gone to waste at the end of the semester. “With meal swipes now able to be used for groceries, it has opened opportunities to host friends over and share a homemade meal without the financial stress or worrying about transportation to the store,” Hillman said in a message to The Hustler.",
+    "source": "hustler_vandycart_reviews.txt",
+    "chunk_index": 2,
+    "char_len": 556
+  },
+  {
+    "text": "stress or worrying about transportation to the store,” Hillman said in a message to The Hustler. The opening of Turnip Truck in January offered on- and near-campus students a grocery store within walking distance. However, those living further away on campus may have still struggled to buy groceries in-store without a car. For those who rely on groceries to make their own food, VandyCart comes as a pleasant addition. Hillman described her roommate’s frequent use of the service for meal prepping.",
+    "source": "hustler_vandycart_reviews.txt",
+    "chunk_index": 3,
+    "char_len": 500
+  },
+  {
+    "text": "pleasant addition. Hillman described her roommate’s frequent use of the service for meal prepping. “With student teaching and classes, she gets VandyCart at least three times a week and limits going to the store,” Hillman said in a message to The Hustler. Similarly, junior Ariana Sierra called the new service convenient and helpful, as it had all the grocery items that she was looking to buy. Sometimes, though, the pickup system can be a hassle. “The only con is you have to order it two hours ahead, and there’s specific time slots instead of you choosing a time,” Sierra said.",
+    "source": "hustler_vandycart_reviews.txt",
+    "chunk_index": 4,
+    "char_len": 582
+  },
+  {
+    "text": "it two hours ahead, and there’s specific time slots instead of you choosing a time,” Sierra said. The app also does not allow users to place an order when the service is closed, even to pick up the next morning. Without enough prior planning, it can sometimes lead to disappointment when the service is no longer accepting orders or if the pickup options do not work with your schedule.",
+    "source": "hustler_vandycart_reviews.txt",
+    "chunk_index": 5,
+    "char_len": 386
+  },
+  {
+    "text": "the service is no longer accepting orders or if the pickup options do not work with your schedule. Some students have found that the limited options that are available to order are not always useful for what they prefer to eat. Campus Dining has added more ingredients since the debut of the service, spanning produce, dry goods, protein and dairy products and ranging from staples like flour to chipotle queso.",
+    "source": "hustler_vandycart_reviews.txt",
+    "chunk_index": 6,
+    "char_len": 411
+  },
+  {
+    "text": "dry goods, protein and dairy products and ranging from staples like flour to chipotle queso. “Some newer items available with Meal Money include toiletries, medicines and drinks. Effective this week, salmon, chia seeds, oatmeal, granola, fresh fruit and yogurt are also now available on VandyCart,” a Campus Dining representative said in an email to The Hustler.",
+    "source": "hustler_vandycart_reviews.txt",
+    "chunk_index": 7,
+    "char_len": 362
+  },
+  {
+    "text": "also now available on VandyCart,” a Campus Dining representative said in an email to The Hustler. Still, though, some items seem illogical to include in a list of what should be the most typical grocery purchases for students. Senior Elizabeth Zang has used the service before and said that despite her initial excitement for the service, it has not been as useful as it seems.",
+    "source": "hustler_vandycart_reviews.txt",
+    "chunk_index": 8,
+    "char_len": 377
+  },
+  {
+    "text": "said that despite her initial excitement for the service, it has not been as useful as it seems. “The ingredients that they offer are really random like zucchini, maple syrup or a block of tempeh,” Zang said in a message to The Hustler. “I just wish they actually included the things I do buy at the grocery store like Diet Coke, granola or better snacks.”",
+    "source": "hustler_vandycart_reviews.txt",
+    "chunk_index": 9,
+    "char_len": 356
+  },
+  {
+    "text": "included the things I do buy at the grocery store like Diet Coke, granola or better snacks.” There are options for fresh produce and pantry items that could be used to make meals from scratch, but because of the limited catalog, it may be difficult to make meals without supplementing them with groceries from the store. That inconvenience could prevent VandyCart users from using all the ingredients they buy. “Every time I buy the random ingredients, I never have time to cook them and end up throwing them out because they went bad,” Zang said.",
+    "source": "hustler_vandycart_reviews.txt",
+    "chunk_index": 10,
+    "char_len": 547
+  },
+  {
+    "text": "I never have time to cook them and end up throwing them out because they went bad,” Zang said. Another setback for the service appears to be the marketing force behind it. When asked about VandyCart, senior Brooke Lytle said she had not seen information about the new offering and never used it as a result. “I have no idea what VandyCart is,” Lytle said. Similarly, senior Zoë Breininger said that despite being familiar with the grocery service, the lack of advertisement means that she does not always think of VandyCart when she does need groceries.",
+    "source": "hustler_vandycart_reviews.txt",
+    "chunk_index": 11,
+    "char_len": 553
+  },
+  {
+    "text": "of advertisement means that she does not always think of VandyCart when she does need groceries. “I have considered using VandyCart before. The application and product seem to be convenient; however, it is not well-advertised, so I often forget it is an option,” Breininger said.",
+    "source": "hustler_vandycart_reviews.txt",
+    "chunk_index": 12,
+    "char_len": 279
+  },
+  {
+    "text": "however, it is not well-advertised, so I often forget it is an option,” Breininger said. Following the demolition of Branscomb Quadrangle and the corresponding Munchie Mart, there is no convenient access to a VandyCart pickup location for students living in the residential colleges of the West End Neighborhood. Yet, because of the Rand pickup location, these residents have an option for packaged foods and snacks that are closer than the nearest Munchie Marts in Highland Quad or the Kissam Center. That improved access to food can help students stock up to eat outside of the dining halls’ hours of operation.",
+    "source": "hustler_vandycart_reviews.txt",
+    "chunk_index": 13,
+    "char_len": 613
+  },
+  {
+    "text": "access to food can help students stock up to eat outside of the dining halls’ hours of operation. If using VandyCart becomes part of a weekly routine, and if it happens to have the groceries that you use, it could be very helpful and could save hours of time getting to the grocery store and browsing for food. But, it could be even more helpful for students if the Munchie Marts started offering more groceries in its regular hours — that way, students could shop at any time that is convenient, instead of during the set pickup times.",
+    "source": "hustler_vandycart_reviews.txt",
+    "chunk_index": 14,
+    "char_len": 536
+  },
+  {
+    "text": "way, students could shop at any time that is convenient, instead of during the set pickup times. It might also be more helpful to have a new Munchie Mart location to serve the West End part of campus, allowing students to buy some groceries in-store, even if other items are still only available to order ahead.",
+    "source": "hustler_vandycart_reviews.txt",
+    "chunk_index": 15,
+    "char_len": 311
+  },
+  {
+    "text": "to buy some groceries in-store, even if other items are still only available to order ahead. According to Campus Dining, VandyCart serves roughly 400 meals per week to around 200 unique users per week. Those who cook or frequently need groceries will likely find VandyCart to be a useful service that can improve the appeal and value of their meal plan, but it may not be practical for others.",
+    "source": "hustler_vandycart_reviews.txt",
+    "chunk_index": 16,
+    "char_len": 393
+  },
+  {
+    "text": "that can improve the appeal and value of their meal plan, but it may not be practical for others. Corey Lochan (‘27) is majoring in human and organizational development and mathematics in Peabody College. He previously served as Copy Editor and Deputy Life Editor. When not writing for The Hustler, you can find him swimming, hiking or complaining about his classes. He can be reached at corey.lochan@vanderbilt.edu.",
+    "source": "hustler_vandycart_reviews.txt",
+    "chunk_index": 17,
+    "char_len": 416
+  },
+  {
+    "text": "Is the Vanderbilt Meal Plan Worth It? For the past decade, Vanderbilt Campus Dining has been winning awards at an impressive rate, achieving a top 15 ranking for best college food every year since 2013. With 24 different locations on campus for students to get a meal anytime during the school year. Vanderbilt Campus Dining offers a wide variety of food choices, ranging from Kosher and Vegetarian meals available at Grins to chef-prepared meals in the Rand Dining Hall.",
+    "source": "political_review_mealplan.txt",
+    "chunk_index": 0,
+    "char_len": 471
+  },
+  {
+    "text": "from Kosher and Vegetarian meals available at Grins to chef-prepared meals in the Rand Dining Hall. In addition, by limiting students to one entrée and three sides (or no entrée and five sides) with each meal swipe, Vanderbilt Campus Dining has worked to minimize the amount of waste produced by the school, reducing Vanderbilt’s eco-footprint. With all of these glowing commendations, it appears that Vanderbilt has a premier, high-quality food service on campus. Not everything is as great as it seems though. After digging deeper into Vanderbilt Campus Dining’s operations, lots of issues surface.",
+    "source": "political_review_mealplan.txt",
+    "chunk_index": 1,
+    "char_len": 600
+  },
+  {
+    "text": "though. After digging deeper into Vanderbilt Campus Dining’s operations, lots of issues surface. Students on campus routinely complain that lines are too long, not only when getting food, but also when checking out at the registers. Vanderbilt’s four meal periods heavily restrict when and how often students can get food, leaving many students feeling frustrated they cannot use their swipes when they want to. This frustration is compounded by a lack of dining options open on the weekend, forcing many students to dine off-campus or to make their own meals.",
+    "source": "political_review_mealplan.txt",
+    "chunk_index": 2,
+    "char_len": 560
+  },
+  {
+    "text": "options open on the weekend, forcing many students to dine off-campus or to make their own meals. The chief complaint among students though is the cost of the meal plan. Students on campus voice questions regarding where their money is going and why they are paying thousands of dollars for their food. Are students at Vanderbilt really getting what they paid for with the required meal plan? To answer this question, we can analyze the economics behind the meal plan to see if students are really receiving a good value for what they paid.",
+    "source": "political_review_mealplan.txt",
+    "chunk_index": 3,
+    "char_len": 540
+  },
+  {
+    "text": "behind the meal plan to see if students are really receiving a good value for what they paid. According to the US Bureau of Labor Statistics, the average American spends $2.42 per meal. So why is it that Vanderbilt freshmen are left paying $7.42/meal while upperclassmen on a 14-meal plan pay $9.55/meal? The majority of students are paying up to a 394% premium to eat on campus, with students living in Kissam paying a 400% premium due to higher priced meal plans.",
+    "source": "political_review_mealplan.txt",
+    "chunk_index": 4,
+    "char_len": 465
+  },
+  {
+    "text": "on campus, with students living in Kissam paying a 400% premium due to higher priced meal plans. Vanderbilt’s utilization monopoly pricing–charging different groups of people different prices–reduces the value that upperclassmen and students living in Kissam receive from the meal plan. Freshmen get more value for each dollar they spend compared to upperclassmen. Assuming the prices Vanderbilt charges for food are justified, the majority of students are still not getting the full value out of the meal plan.",
+    "source": "political_review_mealplan.txt",
+    "chunk_index": 5,
+    "char_len": 511
+  },
+  {
+    "text": "are justified, the majority of students are still not getting the full value out of the meal plan. Every time a student goes to a munchie mart and uses a swipe for a meal that costs less than the cost per meal from the meal plan, they are leaving money on the table. This lost value is compounded by missed meals, especially during breaks or days when students aren’t even on campus. With upperclassmen only receiving $3.15 in rollover per missed meal which is capped at $50, students are paying upwards of $6 for a meal that they are not even receiving. Where is all of this extra money going?",
+    "source": "political_review_mealplan.txt",
+    "chunk_index": 6,
+    "char_len": 594
+  },
+  {
+    "text": "upwards of $6 for a meal that they are not even receiving. Where is all of this extra money going? According to statistics provided by Vanderbilt Campus Dining, the average cost per meal at Vanderbilt is $13. Since costs are more than the $9.55/meal most students are paying, Campus Dining uses the $3.15 in rollover to make up the lost profit from each meal sold. By giving students only $3.15 in meal money per missed meal, Campus Dining is recouping $6.40 for each unused meal without having to offer any goods or services in return.",
+    "source": "political_review_mealplan.txt",
+    "chunk_index": 7,
+    "char_len": 536
+  },
+  {
+    "text": "is recouping $6.40 for each unused meal without having to offer any goods or services in return. In essence, the lost value of each missed meal goes towards paying the difference in Vanderbilt’s cost per meal and the price students pay per meal. Campus Dining does not keep track of the amount of missed swipes per student, making this justification questionable since there is no way to verify that the money made from missed meal swipes is equal to the money lost for each meal sold.",
+    "source": "political_review_mealplan.txt",
+    "chunk_index": 8,
+    "char_len": 485
+  },
+  {
+    "text": "verify that the money made from missed meal swipes is equal to the money lost for each meal sold. In addition, this only accounts for revenue from students and does not factor in sales to visitors and faculty, making Campus Dining’s price justifications suspect. “the large drop in residential students at the peak of construction and the downward pressure on our revenue creates a financially challenging environment to run the dining program.” As a non-profit, Vanderbilt Dining has a profit of $0, meaning that all the extra money is reinvested into growing Campus Dining as a whole.",
+    "source": "political_review_mealplan.txt",
+    "chunk_index": 9,
+    "char_len": 586
+  },
+  {
+    "text": "profit of $0, meaning that all the extra money is reinvested into growing Campus Dining as a whole. In the next three years, Vanderbilt projects for there to be almost 1,000 fewer students living on campus. Compounded with plans for new residential colleges in the next four years and the increased costs associated with running these operations, Vanderbilt faces a large problem making sure that revenue growth matches the growth in costs.",
+    "source": "political_review_mealplan.txt",
+    "chunk_index": 10,
+    "char_len": 440
+  },
+  {
+    "text": "Vanderbilt faces a large problem making sure that revenue growth matches the growth in costs. As David Ter Kuile, the head of Vanderbilt Campus Dining, puts it, “the large drop in residential students at the peak of construction and the downward pressure on our revenue creates a financially challenging environment to run the dining program.” Basically, students are paying higher costs now so Vanderbilt Campus Dining can grow in the future. Looking at the cost of the Vanderbilt meal plan through this lens, students are still not receiving a fair value for the money they pay.",
+    "source": "political_review_mealplan.txt",
+    "chunk_index": 11,
+    "char_len": 580
+  },
+  {
+    "text": "meal plan through this lens, students are still not receiving a fair value for the money they pay. Current students are subsidizing Vanderbilt’s construction without receiving anything in return. The majority of students may never even be able to utilize the new dining halls and food options they are paying for with their meal plan. The average student is being overcharged.",
+    "source": "political_review_mealplan.txt",
+    "chunk_index": 12,
+    "char_len": 376
+  },
+  {
+    "text": "food options they are paying for with their meal plan. The average student is being overcharged. This raises further questions about the ethics of forcing a captive customer (since students are required to purchase some form of the meal plan) to subsidize the future growth of Campus dining, something most students will never be able to take advantage of.",
+    "source": "political_review_mealplan.txt",
+    "chunk_index": 13,
+    "char_len": 356
+  },
+  {
+    "text": "future growth of Campus dining, something most students will never be able to take advantage of. Looking forward, it would be beneficial if Vanderbilt Campus Dining considered not making the meal plan required, offered tiered services, or had price adjustable meal plans based on student dining utilization rates to help students get more value for their money. All three of these options would work in reducing unnecessary spending on meal plans and would allow for greater customization by students based on how much they wish to use the meal plan.",
+    "source": "political_review_mealplan.txt",
+    "chunk_index": 14,
+    "char_len": 550
+  },
+  {
+    "text": "How are OUR dining halls Is the food any good, I’m transferring from Texas A&M where the food was very mediocre. It’s like okay. There’s def some very tasty staple items in every dining hall but you should just get in the habit of checking the menu to see where you want to eat. I do appreciate that Vandy has some other spots on the meal plan for decent coffee, açaí bowls, etc that a lot of schools don’t have",
+    "source": "reddit_dining_hall_thread.txt",
+    "chunk_index": 0,
+    "char_len": 411
+  },
+  {
+    "text": "other spots on the meal plan for decent coffee, açaí bowls, etc that a lot of schools don’t have pretty good, many MANY options (like 10 different dining halls with a variety of cuisine). obviously some dishes rnt gonna be so great but theres more than a few great things, just make sure to mix up what ur getting or you'll get sick of the food pretty quick 1. zeppos: the quality of food here is much higher than any other dining hall. mediterranean bowl here is goated, specifically the lamb. sandwich is solid too. 2. roth: custom stir fry but lines can be long. beef korma and pho are solid.",
+    "source": "reddit_dining_hall_thread.txt",
+    "chunk_index": 1,
+    "char_len": 595
+  },
+  {
+    "text": "is solid too. 2. roth: custom stir fry but lines can be long. beef korma and pho are solid. 3. pub: burgers, wings, quesadillas, fries, etc. pretty fire. carm: coffee, turkey pesto sandwich, fruit cups, & goated muffins are good rand: mongolian (specifically the commodore tso chicken), randwich, rand cookie good ebi: can be sometimes good but can also be mid, just depends what's on the menu kissam: overall food quality is pretty bad, more misses than hits. they always manage to overcook their shit to oblivion. Favorite Restaurants / Food in Nashville",
+    "source": "reddit_dining_hall_thread.txt",
+    "chunk_index": 2,
+    "char_len": 556
+  },
+  {
+    "text": "they always manage to overcook their shit to oblivion. Favorite Restaurants / Food in Nashville My parents will be in town for a week (they eat everything), was wondering what your favorite bites to eat were in Nashville? Thanks in advance!! Biscuit Love (their breakfast is so good) or Funtime Rameni second biscuit love. i rec the east nasty or their omelette I would say Bread & Co. or Café Coco, but RIP 😭😭 If you like Indian, Bombay Palace is still one of my favorite places near campus. Grilled Cheeserie, Princes, Deg Thai, Hyderabad, Shabu Shabu, Onda, Amerigo",
+    "source": "reddit_dining_hall_thread.txt",
+    "chunk_index": 3,
+    "char_len": 568
+  },
+  {
+    "text": "places near campus. Grilled Cheeserie, Princes, Deg Thai, Hyderabad, Shabu Shabu, Onda, Amerigo Shabu Shabu is not good! Sichuan Hot Pot & Asian Cuisine is much better for hot pot imo, although a little drive away Smiling elephant for thai For something off the beaten track try Osh or Uzbegim Biscuit Love is great, but I also love Pancake Pantry. Jashan on 21st is a great Indian place and has a very relaxed atmosphere. Catbird Seat for an upscale dinner, but you’d need reservations. Assembly Food Hall is a good location to try Prince’s if not everyone in your group wants hot chicken.",
+    "source": "reddit_dining_hall_thread.txt",
+    "chunk_index": 4,
+    "char_len": 590
+  },
+  {
+    "text": "Food Hall is a good location to try Prince’s if not everyone in your group wants hot chicken. Heard alot of good things about catbird seat, thank you! urban grub for amazing american/steak & literally anything else on 12 south. VN pho for vietnamese, smiling elephant for thai, pancake pantry for breakfast/brunch, taco mamas for chipotle-style mexican",
+    "source": "reddit_dining_hall_thread.txt",
+    "chunk_index": 5,
+    "char_len": 352
+  },
+  {
+    "text": "Claims from 2021: Campus dining failures Hey y’all. I know many of us are unhappy about the dining situation this semester. Admin has made empty promises about expanding operations, yet we continue to experience their failures every day. There was a petition earlier this semester to try and get their attention, but their reply was a straw-manned argument that fixed nothing. VSG seems to have done nothing about it either.",
+    "source": "reddit_mealplan_thread.txt",
+    "chunk_index": 0,
+    "char_len": 424
+  },
+  {
+    "text": "was a straw-manned argument that fixed nothing. VSG seems to have done nothing about it either. I’m trying to put together a comprehensive list of complaints that I will email to some people in charge, and I would really appreciate any additional (valid) points/anecdotes. Just off the top of my head I can list a few: * Munchie marts selections have decreased in number significantly between pre-covid times and now despite meal plan costs increasing * Munchie mart up charge is too damn high * Things considered “entrees” are questionable",
+    "source": "reddit_mealplan_thread.txt",
+    "chunk_index": 1,
+    "char_len": 540
+  },
+  {
+    "text": "increasing * Munchie mart up charge is too damn high * Things considered “entrees” are questionable * Salad bars are often filled with old rotting items towards the mid-late week * At munchies can only get 1 entree/2 sides or just 2 sides with 1 meal swipe; if you try to get 3 sides with a single swipe they take you out back and beat your ass * Always the same couple of rotating menus: limited variety and god forbid you have any dietary restrictions * Rand still closed for dinner * Hope you aren’t hungry after 7:30pm bc all you’ll have is munchie food which barely counts What am I missing?",
+    "source": "reddit_mealplan_thread.txt",
+    "chunk_index": 2,
+    "char_len": 596
+  },
+  {
+    "text": "hungry after 7:30pm bc all you’ll have is munchie food which barely counts What am I missing? Campus Dining sucking as per the usual It's so nice of Campus dining to give us $20 to use on food for the next few days. Oh wait, a lot of the restaurants in town aren't even open, and the ones that are are charging crazy delivery fees. Typical Campus Dining when they could just gave us meal money to use at our own discretion :)",
+    "source": "reddit_mealplan_thread.txt",
+    "chunk_index": 3,
+    "char_len": 425
+  },
+  {
+    "text": "fees. Typical Campus Dining when they could just gave us meal money to use at our own discretion :) It does work as meal money, just only lasts a day. Agreed though, the dining workers have been pulling through and working hard, but the dining admin doesn’t give a shit about us What are flex meals? Title. I'm just confused it to what they are, and how it affects my actual meal plan. Also, does anyone know what the deadline to select meal plans are? Thanks in advance.",
+    "source": "reddit_mealplan_thread.txt",
+    "chunk_index": 4,
+    "char_len": 471
+  },
+  {
+    "text": "meal plan. Also, does anyone know what the deadline to select meal plans are? Thanks in advance. Flex meals are extra meals you can purchase to use whenever. Usually people not on the meal plan (offcampus) will buy a few. I think every other meal plan comes with 5, though. If you’re on the meal, I wouldn’t worry about it. This is all from last year though, so there could have been changes. what's up with campus dining this year",
+    "source": "reddit_mealplan_thread.txt",
+    "chunk_index": 5,
+    "char_len": 431
+  },
+  {
+    "text": "all from last year though, so there could have been changes. what's up with campus dining this year venting right now, but one meal swipe per hour?? why?? on top of the increased prices for all meal plans and rand not even being open for dinner all week, i'm just super frustrated and hate how they're trying to spin this as more flexible. i basically needed to get multiple meals at a time last year due to my schedule and classes during meal hours. not sure how I'm going to eat this year, much less use up enough meal swipes.",
+    "source": "reddit_mealplan_thread.txt",
+    "chunk_index": 6,
+    "char_len": 528
+  },
+  {
+    "text": "during meal hours. not sure how I'm going to eat this year, much less use up enough meal swipes. One meal swipe per hour was how it worked pre-COVID, but overall they made a bit of a big fucking mistake with thisIIRC, it was one meal swipe per meal period (breakfast/lunch/dinner/4th meal) a decade ago.Yeah, it was. I think I remember it changing to the hourly system around 2017 or so.They changed it in the 2019-2020 school year. My first year was 2018-2019 and we still had meal periodsWhat’s most upsetting is that they clearly don’t care about student complaints.",
+    "source": "reddit_mealplan_thread.txt",
+    "chunk_index": 7,
+    "char_len": 569
+  },
+  {
+    "text": "had meal periodsWhat’s most upsetting is that they clearly don’t care about student complaints. Dozens of ignored comments on their social media posts shows they’re going to continue programming as usual. Email them and encourage your friends to, too. I doubt they’ll listen, but maybe if they get enough formal complaints they’ll have to do something. Vanderbilt Food What is the options for food? Indian Food, Latin American Food, Chinese?",
+    "source": "reddit_mealplan_thread.txt",
+    "chunk_index": 8,
+    "char_len": 441
+  },
+  {
+    "text": "something. Vanderbilt Food What is the options for food? Indian Food, Latin American Food, Chinese? You can look up our dining hall menus online. We have all those kinds of foods you named and more everyday -- foods pretty good hereFor anything good you gotta go off campus. The closest Indian that’s really good imo is Nawabi Hyderabad House. It’s right by centennial park so it’s a bit of a walk from campus. Taj is the best but that’s a little bit of a drive away. All the best Latin American food is on Nolansville road too, a well in the Madison area.",
+    "source": "reddit_mealplan_thread.txt",
+    "chunk_index": 9,
+    "char_len": 556
+  },
+  {
+    "text": "away. All the best Latin American food is on Nolansville road too, a well in the Madison area. Chinese takeout is dime a dozen, but if you want good Asian food… gotta go to Atlanta for that, lo on campus indian food is so ass",
+    "source": "reddit_mealplan_thread.txt",
+    "chunk_index": 10,
+    "char_len": 225
+  }
+]

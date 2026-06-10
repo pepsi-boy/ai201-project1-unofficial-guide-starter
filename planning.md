@@ -9,7 +9,7 @@
 
 ## Domain
 
-<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+My domain is Vanderbilt University dining hall experiences and student opinions about campus food options. This knowledge is valuable because students frequently rely on unofficial reviews and personal experiences when deciding where to eat, which meal plans are worthwhile, and which dining halls best fit their preferences. Much of this information is scattered across student newspapers, opinion magazines, and Reddit discussions, making it difficult to search and compare through official university resources alone.
 
 ---
 
@@ -20,16 +20,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | The Vanderbilt Hustler | Ranking of all 11 Vanderbilt dining options with pros & cons | https://vanderbilthustler.com/2023/04/23/a-ranking-of-vanderbilts-dining-options/ |
+| 2 | The Vanderbilt Hustler | "Lots of change, some progress" — review of Campus Dining | https://vanderbilthustler.com/2022/09/27/lots-of-change-some-progress-a-review-of-campus-dining/ |
+| 3 | The Vanderbilt Hustler | Student reviews of VandyCart / food beyond the dining hall | https://vanderbilthustler.com/2025/10/19/campus-food-beyond-the-dining-hall-student-reviews-of-vandycart/ |
+| 4 | The Vanderbilt Hustler | "3 years of Campus Dining losses, ranked" (opinion) | https://vanderbilthustler.com/2024/09/01/3-years-of-campus-dining-losses-ranked/ |
+| 5 | The Vanderbilt Hustler | Meal plan options updated after student feedback | https://vanderbilthustler.com/2024/10/20/dining-introduces-updated-meal-plan-options-following-student-feedback/ |
+| 6 | The Vanderbilt Hustler | Recent changes to several dining locations (2026) | https://vanderbilthustler.com/2026/02/17/campus-dining-implements-changes-to-several-dining-locations/ |
+| 7 | Vanderbilt Political Review | "Is the Vanderbilt Meal Plan Worth It?" — cost breakdown | https://vanderbiltpoliticalreview.com/6222/campus/is-the-vanderbilt-meal-plan-worth-it/ |
+| 8 | Vanderbilt Business Review | All-you-care-to-eat vs. retail dining tradeoffs | https://vanderbiltbusinessreview.com/dining-halls-all-you-care-to-eat-vs-retail-dining/ |
+| 9 | Reddit (r/Vanderbilt) | Student discussion thread on dining / meal plans (copy manually) | https://www.reddit.com/r/Vanderbilt/ (search "meal plan") |
+| 10 | Reddit (r/Vanderbilt) | Student discussion thread on best/worst dining hall (copy manually) | https://www.reddit.com/r/Vanderbilt/ (search "dining hall") |
 
 ---
 

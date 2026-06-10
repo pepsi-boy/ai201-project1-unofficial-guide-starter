@@ -341,9 +341,13 @@ Dining Halls offer more variety and the freedom of all-you-can-eat but are seen
 as lesser in quality.
 
 Retrieved from:
-• business_review_aycte_vs_retail.txt
-• hustler_campus_dining_review.txt
+• Vanderbilt Business Review — "Dining Halls: All You Care to Eat vs Retail Dining"
+• The Vanderbilt Hustler — "Lots of change, some progress: A review of Campus Dining"
 ```
+
+Source citations are shown as human-readable source names (mapped from the
+internal filename in `query.py`), so a viewer sees the actual publication and
+article title rather than a filename.
 
 **Out-of-scope example (grounding guardrail):**
 
